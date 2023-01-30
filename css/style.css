@@ -1,0 +1,57 @@
+
+#texto{margin: 10px;}
+
+h3{
+    color: aliceblue;
+    margin: 10px;
+
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+#Titulo{
+    color: aliceblue;
+    background-color: steelblue;
+    text-align: center;
+    border-style: solid;
+}
+
+#fotoper{
+    text-align: center;
+    margin: 10px;
+}
+
+#datper{
+    background-color: steelblue;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 2px;
+    margin: 10px;
+}
+
+#explab{
+    background-color: steelblue;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 2px;
+    margin: 10px;
+}
+
+#hab{
+    background-color: steelblue;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 2px;
+    margin: 10px;
+}
+
+#dc{
+    text-align: center;
+    
+}
+
+#contacto{
+    color: black;
+}
